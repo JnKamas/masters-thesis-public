@@ -20,7 +20,7 @@ Create the Conda environment:
 
 ```bash
 conda env create -f env.yml
-conda activate kamas
+conda activate env
 ```
 
 The environment expects CUDA-capable PyTorch. If your CUDA version differs from the one in `env.yml`, install the matching PyTorch build before running training or inference.

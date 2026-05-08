@@ -6,11 +6,6 @@ __pycache__/
 *.pth
 *.pt
 
-# Ignore data and logs
-data/
-logs/
-*.json
-
 # Ignore environment files
 .env
 

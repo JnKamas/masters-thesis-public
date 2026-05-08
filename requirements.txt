@@ -1,0 +1,12 @@
+torch
+torchvision
+torchaudio
+numpy
+opencv-python
+matplotlib
+scipy
+pandas
+psutil
+tqdm
+blitz-bayesian-pytorch
+open3d
